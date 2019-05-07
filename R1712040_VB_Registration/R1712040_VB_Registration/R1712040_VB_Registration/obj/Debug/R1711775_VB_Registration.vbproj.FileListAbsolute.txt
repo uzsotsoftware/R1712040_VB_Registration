@@ -1,0 +1,4 @@
+C:\Users\ufi\Desktop\R1711787_VB_Registration\R1711787_VB_Registration\bin\Debug\R1711775_VB_Registration.exe.config
+C:\Users\ufi\Desktop\R1711787_VB_Registration\R1711787_VB_Registration\obj\Debug\R1711775_VB_Registration.exe
+C:\Users\ufi\Desktop\R1711787_VB_Registration\R1711787_VB_Registration\obj\Debug\R1711775_VB_Registration.xml
+C:\Users\ufi\Desktop\R1711787_VB_Registration\R1711787_VB_Registration\obj\Debug\R1711775_VB_Registration.pdb
